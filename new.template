@@ -1,0 +1,29 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Metadata": {
+        "AWS::CloudFormation::Designer": {
+            "500837c1-bf1d-4d5d-935d-b5275a27bb26": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 203,
+                    "y": 75
+                },
+                "z": 0
+            }
+        }
+    },
+    "Resources": {
+        "EC2IH9TV": {
+            "Type": "AWS::EC2::Instance",
+            "Properties": {},
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "500837c1-bf1d-4d5d-935d-b5275a27bb26"
+                }
+            }
+        }
+    }
+}
